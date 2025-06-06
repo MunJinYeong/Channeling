@@ -1,5 +1,9 @@
-# 채널링 (Channelling)
+# Channelling
 
+<img width="200" alt="channeling" src="https://github.com/user-attachments/assets/5e04370b-cea5-4083-a58d-243b04587882" />
+
+
+## 프로젝트 소개
 유튜브 채널 및 개별 영상 데이터를 AI로 분석해, 개선점과 트렌드 기반 콘텐츠 아이디어를 제공하는 솔루션입니다.  
 초보 유튜버부터 전문 크리에이터, 브랜드 마케팅 팀까지 모두가 활용할 수 있는 맞춤형 리포트를 자동 생성합니다.
 
