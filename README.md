@@ -1,11 +1,12 @@
-# Channelling
-
 <img width="200" alt="channeling" src="https://github.com/user-attachments/assets/5e04370b-cea5-4083-a58d-243b04587882" />
+
 
 
 ## 프로젝트 소개
 유튜브 채널 및 개별 영상 데이터를 AI로 분석해, 개선점과 트렌드 기반 콘텐츠 아이디어를 제공하는 솔루션입니다.  
 초보 유튜버부터 전문 크리에이터, 브랜드 마케팅 팀까지 모두가 활용할 수 있는 맞춤형 리포트를 자동 생성합니다.
+
+
 
 ## 주요 기능
 
@@ -25,3 +26,8 @@
 - **구글 OAuth 인증**  
   - 유튜브 API·YouTube Analytics API를 활용해 채널 소유자 인증  
   - 권한 기반 데이터 수집으로 보안 강화
+
+## 팀원 소개
+
+## 기술 스택
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white">
